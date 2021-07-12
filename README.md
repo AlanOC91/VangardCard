@@ -1,4 +1,4 @@
-[<img src="Logo (1).jpg" width="128" height="128" alt="YGOPRODeck" />](http://ygoprodeck.com/)
+[<img src="Logo (1).png" width="128" height="128" alt="VanguardCard" />](https://vanguardcard.io/)
 
 # VanguardCard Feedback
 
