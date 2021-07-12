@@ -13,4 +13,4 @@ We strive to make Vanguardcard.io the best Cardfight Vanguard Card Database and 
 
 Please give examples when reporting bugs! 
 
-[<img src="img/newissue.png" height="35" width="156" alt="Open New Issue" />](https://github.com/AlanOC91/VangardCard/issues/new)
+**Open New Issue**: https://github.com/AlanOC91/VangardCard/issues/new
